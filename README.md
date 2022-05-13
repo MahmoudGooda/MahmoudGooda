@@ -29,4 +29,4 @@ I’m currently working as IT Support Specialist
 
 ### You can reach me at
 - mahmoud.gooda@gmail.com
-- linkedin.com/in/mahmoudgooda
+- www.linkedin.com/in/mahmoudgooda
