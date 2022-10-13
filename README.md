@@ -19,18 +19,27 @@ Here are some ideas to get you started:
 ![Untitled design](https://user-images.githubusercontent.com/105418424/170351281-ff61b945-e4e3-48f1-93b2-e2054e93c8bf.png)
 ### Hi there 👋
 I am working as IT Support Specialist at FTI Group providing first-level support for end-users.
-I have a cloud computing background specially in AWS. (Hands on EC2, CloudFront, CloudFormation, etc.)
+I have a cloud computing background specially in AWS. (Hands on EC2, CloudFront, CloudFormation, etc.)<br>
 Learning and Looking forward for a Cloud DevOps Engineer role in the future.
 
-### I have some little skills in
+### I have some skills in
 - Powershell
 - Linux CLI basics
 - Windows server administration
 - HTML
 - CSS
 - Python
+- Docker
+- Kubernetes
+- Jenkins
+- Ansible
+
+### Claimed
+- *AWS cloud practitioner* badge.
+- *Advanced cloud DevOps nanodegree* certificate from Udacity.
+
 ### I’m currently learning
-*AWS Cloud DevOps Engineer* Course
+*AWS Cloud Architect Associate* Course
 
 ### You can reach me at
 
