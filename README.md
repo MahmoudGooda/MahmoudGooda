@@ -35,8 +35,8 @@ Learning and Looking forward for a Cloud DevOps Engineer role in the future.
 - Ansible
 
 ### Claimed
-- *AWS cloud practitioner* badge.
-- *Advanced cloud DevOps nanodegree* certificate from Udacity.
+- *AWS Cloud Practitioner* badge.
+- *Advanced Cloud DevOps nanodegree* certificate from Udacity.
 
 ### I’m currently learning
 *AWS Cloud Architect Associate* Course
