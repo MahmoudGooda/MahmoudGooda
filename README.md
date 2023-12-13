@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 ![Untitled design](https://user-images.githubusercontent.com/105418424/170351281-ff61b945-e4e3-48f1-93b2-e2054e93c8bf.png)
 ### Hi there 👋
-I am working as IT Support Specialist at FTI Group providing first-level support for end-users.
-I have a cloud computing background specially in AWS. (Hands on EC2, CloudFront, CloudFormation, etc.)<br>
+I am working as IT Systems Engineer at FTI Group providing 2nd-level support for end-users.
+I have hands on experience in cloud computing specially in AWS. (Hands on EC2, CloudFront, CloudFormation, etc.)<br>
 Learning and Looking forward for a Cloud DevOps Engineer role in the future.
 
-### I have some skills in
+### I have practical skills in
 - Powershell
 - Linux CLI basics
 - Windows server administration
@@ -35,11 +35,12 @@ Learning and Looking forward for a Cloud DevOps Engineer role in the future.
 - Ansible
 
 ### Claimed
-- *AWS Cloud Practitioner* badge.
-- *Advanced Cloud DevOps nanodegree* certificate from Udacity.
+- *AWS Cloud Practitioner* badge. [(Credential)](https://www.credly.com/badges/def37712-c54b-4e1d-b82d-35d71efc50b9/linked_in_profile)
+- *Advanced Cloud DevOps nanodegree* Certificate from Udacity.
+- *AWS Cloud Project Bootcamp  (Gold Squad)* Certificate from ExamPro. [(Credential)](https://app.exampro.co/student/achievements/validate/certificate/BsBnpDLQX-JcoiSo5sHjFQ12f60)
 
 ### I’m currently learning
-*AWS Cloud Architect Associate* Course
+*Microsoft Azure Fundamentals* Course
 
 ### You can reach me at
 
