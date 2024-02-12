@@ -38,9 +38,10 @@ Learning and Looking forward for a Cloud DevOps Engineer role in the future.
 - *AWS Cloud Practitioner* badge. [(Credential)](https://www.credly.com/badges/def37712-c54b-4e1d-b82d-35d71efc50b9/linked_in_profile)
 - *Advanced Cloud DevOps nanodegree* Certificate from Udacity.
 - *AWS Cloud Project Bootcamp  (Gold Squad)* Certificate from ExamPro. [(Credential)](https://app.exampro.co/student/achievements/validate/certificate/BsBnpDLQX-JcoiSo5sHjFQ12f60)
+- *Microsoft Certified: Azure Fundamentals* [(Credential)](https://learn.microsoft.com/api/credentials/share/en-us/MahmoudGooda-8717/4BEF7633ACA7EAF7?sharingId=891FD07C9AFA9A40)
 
 ### I’m currently learning
-*Microsoft Azure Fundamentals* Course
+*Windows Server Hybrid Administrator Associate*
 
 ### You can reach me at
 
