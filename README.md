@@ -11,7 +11,7 @@
 IT Systems Engineer. I run Microsoft 365 day to day for four tenants (about 750 users).
 
 I build the tools my teams are missing: where a license leaves a gap, or where a task still lives in an Excel sheet and costs people time every week.
-I build them with AI agents in the loop and keep a person, me, accountable for every change.
+I build them with AI agents doing the heavy lifting, while I own the design, the review and the result.
 
 ## What I do
 
@@ -21,8 +21,8 @@ I build them with AI agents in the loop and keep a person, me, accountable for e
 
 ## How I work with AI
 
-- **Agentic development.** Claude Code and Codex write and refactor most of the code in my tools. I own the design, review every change, and merges only go through after CI passes: tests, type checks and secret scanning on my own self-hosted runners.
-- **Admin work.** Claude and ChatGPT help me draft and review PowerShell, policies and runbooks before anything touches a tenant. No tenant data, API keys, secrets in prompts or code.
+- **Agentic development.** I design the tools, write the specs and run Claude Code and Codex as the implementation team. Every change goes through my review and a CI gate before it merges: tests, type checks and secret scanning on my own self-hosted runners.
+- **Admin work.** I use Claude and ChatGPT as a second reviewer on PowerShell, policies and runbooks, and to get through documentation faster. Nothing reaches a tenant until I've tested it. No tenant data, API keys or secrets in prompts or code.
 
 ## Tools
 
@@ -49,6 +49,7 @@ I build them with AI agents in the loop and keep a person, me, accountable for e
 ![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=flat-square&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square)
 ![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-24292F?style=flat-square&logo=githubcopilot&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 
@@ -70,7 +71,7 @@ I build them with AI agents in the loop and keep a person, me, accountable for e
 ## Certifications
 
 [![Azure Fundamentals](https://img.shields.io/badge/Microsoft_Certified-Azure_Fundamentals-0078D4?style=flat-square)](https://learn.microsoft.com/api/credentials/share/en-us/MahmoudGooda-8717/4BEF7633ACA7EAF7?sharingId=891FD07C9AFA9A40)
-[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=flat-square)](https://www.credly.com/badges/def37712-c54b-4e1d-b82d-35d71efc50b9/linked_in_profile)
+[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-2022-232F3E?style=flat-square)](https://www.credly.com/badges/def37712-c54b-4e1d-b82d-35d71efc50b9/linked_in_profile)
 [![AWS Bootcamp](https://img.shields.io/badge/ExamPro-AWS_Cloud_Project_Bootcamp_(Gold_Squad)-232F3E?style=flat-square)](https://app.exampro.co/student/achievements/validate/certificate/BsBnpDLQX-JcoiSo5sHjFQ12f60)
 ![Udacity](https://img.shields.io/badge/Udacity-Cloud_DevOps_Nanodegree-02B3E4?style=flat-square)
 
